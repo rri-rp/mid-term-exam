@@ -1,4 +1,4 @@
-# mid-term-exam
+# Mid-Term-Exam
 
 ## Question 1
 
